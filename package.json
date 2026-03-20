@@ -1,4 +1,3 @@
-
 {
   "name": "emmy-kurswahl-o-mat",
   "private": true,
@@ -7,6 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "preview": "vite preview",
     "static-build": "vite build",
     "cap-sync": "npx cap sync"
@@ -21,6 +22,7 @@
     "@capacitor/cli": "^6.0.0",
     "@capacitor/core": "^6.0.0",
     "@vitejs/plugin-react": "^4.3.0",
+    "gh-pages": "^6.3.0",
     "typescript": "^5.5.0",
     "vite": "^5.4.0"
   }
