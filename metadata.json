@@ -1,0 +1,5 @@
+{
+  "name": "Emmy-Kurswahl-O-Mat",
+  "description": "Ein intelligenter Assistent für die Oberstufen-Kurswahl am Emmy-Noether-Gymnasium Berlin. Hilft Schülern, ihre Prüfungsfächer gemäß der Emmy-Tabelle zu wählen und erstellt einen individuellen Übersichtsplan.",
+  "requestFramePermissions": []
+}
