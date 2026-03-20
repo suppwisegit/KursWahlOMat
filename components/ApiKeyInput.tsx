@@ -63,7 +63,7 @@ const ApiKeyInput: React.FC<Props> = ({ onApiKeySubmit }) => {
                 />
               </div>
               <span className="text-xs text-slate-600 leading-relaxed font-medium">
-                Ich habe die <a href="https://github.com/Dein-Username/KursWahlOMat/blob/main/PrivacyPolicy.md" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">Datenschutzerklärung</a> und die <a href="https://github.com/Dein-Username/KursWahlOMat/blob/main/TermsOfService.md" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">AGB</a> gelesen und akzeptiere diese Bedingungen bezüglich der KI-Datenverarbeitung.
+                Ich habe die <a href="https://github.com/suppwisegit/KursWahlOMat/blob/main/PrivacyPolicy.md" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">Datenschutzerklärung</a> und die <a href="https://github.com/suppwisegit/KursWahlOMat/blob/main/TermsOfService.md" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">AGB</a> gelesen und akzeptiere diese Bedingungen bezüglich der KI-Datenverarbeitung.
               </span>
             </label>
           </div>
